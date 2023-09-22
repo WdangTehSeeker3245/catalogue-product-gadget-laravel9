@@ -32,6 +32,7 @@
           <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
         </form>
+        <a href="#" id="loginbtn"class="btn btn-primary d-flex mx-2">Login</a>
       </div>
     </div>
 </nav>
